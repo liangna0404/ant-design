@@ -21,6 +21,14 @@ const Step = Steps.Step;
 ReactDOM.render(
   <Steps direction="vertical" size="small" current={1}>
     <Step title="Finished" description="This is a description." />
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
+    <div>aksdjfoiwejofijwofeijoijwefoijashdfohofjiwjfioajefijw</div>
     <Step title="In Progress" description="This is a description." />
     <Step title="Waiting" description="This is a description." />
   </Steps>,
